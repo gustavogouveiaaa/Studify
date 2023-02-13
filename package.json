@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "discord.js": "^14.7.1",
+    "dotenv": "^16.0.3",
+    "nodemon": "^2.0.20"
+  },
+  "name": "bot-discord",
+  "version": "1.0.0",
+  "description": "bot de estudos de programacao para discord",
+  "main": "index.js",
+  "scripts": {
+    "dev":"nodemon"
+  },
+  "keywords": [
+    "bot-discord"
+  ],
+  "author": "Gustavo Gouveia",
+  "license": "ISC"
+}
